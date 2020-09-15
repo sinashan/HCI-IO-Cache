@@ -1,0 +1,6 @@
+Status(1-Local,2-Global-Traffic,3-Global-Load):	1
+Number_of_Node:	2
+Number_of_VM:	2	2
+Node_cache_Size: 20000
+Number_of_Steps: 20
+Number_request_per_Step: 10000
